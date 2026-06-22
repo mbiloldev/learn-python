@@ -7,4 +7,3 @@ else:
  print("Muammo yo‘q")
 finally:
  print("Dastur tugadi")
-bnngbnh
