@@ -7,3 +7,4 @@ except ValueError:
  print("Faqat son kiriting")
 wfervgb
 dsfgeht
+dgfebnr
