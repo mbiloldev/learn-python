@@ -1,7 +1,7 @@
-
-cdwfvegt2
-hjiu7yj57h
-yujki68lo
-hjtyk6
-fgrty5h
-thjtky6
+class Car:
+ def __init__(self, brand):
+ self.brand = brand
+car1 = Car("BMW")
+car2 = Car("Tesla")
+print(car1.brand)
+print(car2.brand)
