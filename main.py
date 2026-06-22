@@ -6,3 +6,4 @@ except ZeroDivisionError:
 except ValueError:
  print("Faqat son kiriting")
 wfervgb
+dsfgeht
